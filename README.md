@@ -50,6 +50,6 @@ Admin can verify order or information of shipper or customer
 * Each shipper have to budget in  system to sure shipper not take goods , value of order which shipper can choice depent of value of budget (may be not greater than twice value of budget)
 
 
-** Some option to expand **
+**Some option to expand**
 * shipper can review order for buyer (if customer is buyer )
 * Shipper can find more order which they can deliver in their path (may be use google  api .)  
