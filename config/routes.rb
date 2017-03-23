@@ -3,7 +3,7 @@ Rails.application.routes.draw do
   root 'home#index'
 
   get '/login' => 'home#login'
-  get '/signup' => 'home#sign_up'
+  get '/signup' => 'home#sign_up'  
 
   devise_for :shippers
   devise_for :customers
